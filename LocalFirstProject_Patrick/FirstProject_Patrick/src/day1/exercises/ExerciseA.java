@@ -15,7 +15,7 @@ public class ExerciseA {
 			tax = salary * .30;
 		}
 		
-		System.out.println("Tax = " + tax);
+		System.out.println("Total Tax = " + tax);
 	}
 
 }
